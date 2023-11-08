@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="805f2a3d-ebe1-420a-87f0-64a748dfa712" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/controllers/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/entities/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/entities/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/Images/suhas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Add_Admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Add_Admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Add_Product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Add_Product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Add_User.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Add_User.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Update_Admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Update_Admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Update_Product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Update_Product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Update_User.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Update_User.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.business/BusinessProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.business/BusinessProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/BusinessProjectApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/basiclogics/Logic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/AdminLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/AdminRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/AdminServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/OrderServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/ProductServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/UserServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/TEA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/TEA2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/backgroundTea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/final.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/final2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/final3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-color (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-no-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/logo-white2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/repairImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/robot-with-pliers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Images/suhas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/JavaScript/Products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/Videos/teaTree.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/About.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Add_Admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Add_Product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Add_User.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Admin_Page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/BuyProduct.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Locate_us.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Update_Admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Update_Product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/Update_User.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/About.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Add_Admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Add_Product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Add_User.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Admin_Page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/BuyProduct.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Locate_us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Order_success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Update_Admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Update_Product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Update_User.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/exception.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-09-16T11-52-23_419.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.business.BusinessProjectApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.business.BusinessProjectApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/business/BusinessProjectApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XsrsLCuDVwEJtIP8SKE9Q26sEX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sumkumar41/Documents/Business_Management_Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20229885&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.BusinessProjectApplication">
+    <configuration name="BusinessProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.business.BusinessProjectApplication" />
+      <module name="BusinessProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.business.BusinessProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.business.BusinessProjectApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BusinessProjectApplication" />
+        <item itemvalue="Application.com.business.BusinessProjectApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="805f2a3d-ebe1-420a-87f0-64a748dfa712" name="Changes" comment="" />
+      <created>1699428844860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699428844860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
